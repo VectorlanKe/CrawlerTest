@@ -1,0 +1,9 @@
+D:\Project File\CrawlerTest\Crawler\bin\Debug\netstandard2.0\SmallCrawler.deps.json
+D:\Project File\CrawlerTest\Crawler\bin\Debug\netstandard2.0\SmallCrawler.dll
+D:\Project File\CrawlerTest\Crawler\bin\Debug\netstandard2.0\SmallCrawler.pdb
+D:\Project File\CrawlerTest\Crawler\obj\Debug\netstandard2.0\SmallCrawler.csprojAssemblyReference.cache
+D:\Project File\CrawlerTest\Crawler\obj\Debug\netstandard2.0\SmallCrawler.csproj.CoreCompileInputs.cache
+D:\Project File\CrawlerTest\Crawler\obj\Debug\netstandard2.0\SmallCrawler.AssemblyInfoInputs.cache
+D:\Project File\CrawlerTest\Crawler\obj\Debug\netstandard2.0\SmallCrawler.AssemblyInfo.cs
+D:\Project File\CrawlerTest\Crawler\obj\Debug\netstandard2.0\SmallCrawler.dll
+D:\Project File\CrawlerTest\Crawler\obj\Debug\netstandard2.0\SmallCrawler.pdb

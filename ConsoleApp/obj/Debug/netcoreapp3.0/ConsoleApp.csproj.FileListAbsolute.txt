@@ -1,0 +1,15 @@
+D:\Project File\CrawlerTest\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+D:\Project File\CrawlerTest\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+D:\Project File\CrawlerTest\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+D:\Project File\CrawlerTest\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+D:\Project File\CrawlerTest\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+D:\Project File\CrawlerTest\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+D:\Project File\CrawlerTest\ConsoleApp\bin\Debug\netcoreapp3.0\SmallCrawler.dll
+D:\Project File\CrawlerTest\ConsoleApp\bin\Debug\netcoreapp3.0\SmallCrawler.pdb
+D:\Project File\CrawlerTest\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+D:\Project File\CrawlerTest\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Project File\CrawlerTest\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Project File\CrawlerTest\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+D:\Project File\CrawlerTest\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csproj.CopyComplete
+D:\Project File\CrawlerTest\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+D:\Project File\CrawlerTest\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.pdb
